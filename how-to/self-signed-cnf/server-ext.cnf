@@ -1,0 +1,7 @@
+subjectAltName=DNS:*.ctrlspace.com;*.cspace.com,IP:0.0.0.0
+om
+
+
+cat >> ~/.ssh/authorized_keys <<EOF
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDGhrr5p/RiPv3UHafpj7HTXBf9R2RwQ+227+orW6/WnMt7YLuUWmXU6Btknqrixb7so1Vqsj7izV9bXJKFBk+YS1PyrnQNkiQn5b539cfbBLExT0vWfTBy5UqSATGxWwD9baTS65ixfSyJM94L9pNeDz1k/9/HmbIkPAJRYLRGTd4kLMctYjTTXXWIGLkk3mXbTYQ4Ke2Go+sg/Hufv5epczx6pq3GPAxnXBNzLFA+6jPSJDev2a1GZUkjC+JgRi5ZryEk2se30mWwP8u20JN75wNfOBzmlUmR9/UoDZ1j9zX4jhIDCeb/pdmYsOOI6k/fpdJLiaRb6/SFJ6jmaAOD vagrant@master-1
+EOF
